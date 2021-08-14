@@ -1,6 +1,5 @@
 @charset "UTF-8";
 /*************** Personnalisation des polices  **********************/
-/***********  Coins non arrondis ********************/
 /*******  Réglage du screen-reader only ****/
 .sr-only {
   position: absolute !important;
